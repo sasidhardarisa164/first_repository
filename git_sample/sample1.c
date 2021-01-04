@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("pora pichhi puka");
+    printf("welcome to mempage");
     return 0;
 }
